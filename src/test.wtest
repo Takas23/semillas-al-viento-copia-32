@@ -1,5 +1,6 @@
 import plantas.*
 import parcelas.*
+import inta.*
 
 describe "plantas" {
 
